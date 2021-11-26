@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for platops-please-work App
+name: platops-please-work
+home: https://github.com/hmcts/platops-please-work
+version: 0.0.1
+dependencies:
+  - name: nodejs
+    version: 2.3.3
+    repository: '@hmctspublic'
+

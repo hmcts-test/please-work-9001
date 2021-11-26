@@ -1,0 +1,6 @@
+nodejs:
+  applicationPort: 3001
+  aadIdentityName: rpe
+  ingressHost: platops-please-work.{{ '{{' }} .Values.global.environment {{ '}}' }}.platform.hmcts.net
+  image: 'hmctspublic.azurecr.io/platops/:latest'
+  environment:
