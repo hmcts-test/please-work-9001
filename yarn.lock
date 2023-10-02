@@ -1403,10 +1403,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/serve-favicon@^2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@types/serve-favicon/-/serve-favicon-2.5.0.tgz#21164e61290d577d75e22de1b3119fad70bf52b6"
-  integrity sha512-APK6i1tJp8XBYCZyU4HqtNZBiwipIBQvpQVLYZezTm4TaKKl0KrsGokQK9k3Ll2CaEGNuehppKhXp/Ki9oWT/w==
+"@types/serve-favicon@^2.5.5":
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/@types/serve-favicon/-/serve-favicon-2.5.5.tgz#88dbbc222ab3b295931491749921250927ec9d22"
+  integrity sha512-E/P1MhsGcalASnOVUPr9QQ4BIXyqQoGtLscG4fcMcEpZ7Z7tl6S4uSJnBJzWj7bj6rRZLIFOv0dR1YcepLNFFA==
   dependencies:
     "@types/express" "*"
 
